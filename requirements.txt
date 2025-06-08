@@ -1,0 +1,27 @@
+# Instagram Bot Requirements
+# Core dependencies for Instagram automation and AI responses
+
+# Instagram API library
+instagrapi==1.19.3
+
+# Google Generative AI (Gemini)
+google-generativeai==0.3.2
+
+# Additional dependencies that might be needed
+requests==2.31.0
+Pillow==10.1.0
+pycryptodome==3.19.0
+
+# Optional but recommended for better stability
+urllib3==2.1.0
+certifi==2023.11.17
+charset-normalizer==3.3.2
+idna==3.6
+
+# For debugging and logging (usually built-in but good to specify versions)
+# These are typically included with Python but listed for completeness
+# logging - built-in
+# time - built-in  
+# datetime - built-in
+# json - built-in
+# random - built-in
