@@ -8,7 +8,7 @@ instagrapi==1.19.3
 google-generativeai==0.3.2
 
 # Additional dependencies that might be needed
-requests==2.31.0
+requests==2.32.2
 Pillow==10.1.0
 pycryptodome==3.19.0
 
